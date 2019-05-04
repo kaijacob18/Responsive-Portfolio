@@ -215,36 +215,4 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-/*  from 769 to 980 */
-  @ media screen and (max-width: 980px){
-    #masthead {
-      position: static;
-          
-    }
-    a{
-      padding: 0, 2%;
-    }
-  }
-
-/*  from: 641 to 768 */
-  @ media screen and (max-width: 768px){
-    #masthead {
-      position: static;
-     
-    }
-    a{
-      padding: 0, 2%;
-    }
-  }
-
-/* Small phone 0 to 640 px */
-  @ media screen and (max-width: 640px){
-    #masthead {
-      position: static;
-     
-    }
-    a{
-      padding: 0, 2%;
-    }
-  }
   
